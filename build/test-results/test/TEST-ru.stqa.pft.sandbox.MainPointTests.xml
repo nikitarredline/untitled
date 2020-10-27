@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ru.stqa.pft.sandbox.MainPointTests" tests="3" skipped="0" failures="0" errors="0" timestamp="2020-10-27T08:50:53" hostname="DESKTOP-5L1D7AE" time="0.009">
+  <properties/>
+  <testcase name="testMainPointOne" classname="ru.stqa.pft.sandbox.MainPointTests" time="0.006"/>
+  <testcase name="testMainPointTree" classname="ru.stqa.pft.sandbox.MainPointTests" time="0.0"/>
+  <testcase name="testMainPointTwo" classname="ru.stqa.pft.sandbox.MainPointTests" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
